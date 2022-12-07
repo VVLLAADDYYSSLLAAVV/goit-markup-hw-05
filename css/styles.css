@@ -575,7 +575,19 @@ ul{
 .team-employee .employee-info:nth-child(4) {
       margin-right: 0;
 }
+/* Секція 5 */
+.client{
+      display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 270px;
+            height: 120px;
+            background-color: #F5F4FA;
+            border-radius: 4px;
+            /* margin-right: 30px; */
+            margin-bottom: 30px;
 
+}
 /* Підвал */ /* Footer bg */
 .footer{
       background-color: #2F303A;
